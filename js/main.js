@@ -54,7 +54,7 @@ function myFunction() {
 
 //"functions"
 function howdy() {
-	console.log ('Rachel Munson says hello!')
+	console.log ('Rachel Munson says hi!')
 }
 
 
